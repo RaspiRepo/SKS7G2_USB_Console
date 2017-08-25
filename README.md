@@ -1,7 +1,7 @@
 
 # Hello World to Serial Communication for Renesas Embedded system
 
-#SUMMARY:
+# SUMMARY:
 Many developer while learning or developing new Embedded applications, Internet of Things (IoT) devices they need to know how to send out debug OR result information to PC. Often DISPLAY unit like LCD panel either missing OR if there is need one they need write display driver to display anything. Without DISPLAYING information its very hard and time consuming process to develop simple application. 
 My objective here is to show how to configure and write data such as debug lines or any Sensor values So on the PC I can see what's going on. Another motivation of this tutorial is just like any other new programming language learning "Hello World" is first application as starting point. 
 
